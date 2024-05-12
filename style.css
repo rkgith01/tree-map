@@ -4,7 +4,7 @@ body, html {
     margin: 0;
     padding: 0;
     color: #ece9e9;
-    background-color: #151414;
+    background: linear-gradient(to right, #38455b, #161f31, #1c1b1b);
 }
 
 #title {
